@@ -1,5 +1,5 @@
 # AstroAPI
-Astro API is used for Astro Anticheat which can be purchased at https://astroac.cc
+Astro API is used for Astro Anticheat. A license key can be purchased at https://astroac.cc
 
 ## Events
 - `AstroFlagEvent` - Called whenever Astro flags a player.
